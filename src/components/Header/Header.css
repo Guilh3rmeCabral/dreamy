@@ -1,0 +1,29 @@
+.space-navigation {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 112px;
+    padding: 40px 100px 40px 0;
+    background: #131313;
+    font-family: 'Quicklime', sans-serif;
+}
+.link-navigation {
+    color: #BCA3CC;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+}
+.active {
+    border-bottom: 1px solid #BCA3CC;
+}
+.btn-subscribe {
+    width: 192px;
+    height: 38px;
+    background: #BCA3CC;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px
+}
+
+
+
